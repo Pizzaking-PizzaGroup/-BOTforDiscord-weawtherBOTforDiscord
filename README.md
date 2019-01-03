@@ -1,1 +1,1 @@
-# -BOTforDiscord-weawtherBOTforDiscord
+# 天気予報BOTforDiscord-weawtherBOTforDiscord
